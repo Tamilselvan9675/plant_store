@@ -1,0 +1,20 @@
+.landing-page {
+    background-image: url('../assets/background.jpg'); /* Your background image path */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+.get-started-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: green;
+    border: none;
+    cursor: pointer;
+}
